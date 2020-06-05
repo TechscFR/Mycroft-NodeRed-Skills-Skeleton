@@ -1,7 +1,7 @@
 # Mycroft-NodeRed-Skills-Skeleton
 Mycroft NodeRed Start Skeleton 
 
-Not available now !!!!!
+Not available now !!!!! (work in progress)
 
 This groups of nodes is a starter to use and create mycroft skills with NodeRed based of the works of @JarbasSkills from his mycroft-node-red repository so you must have it do have the following working.
 
